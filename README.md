@@ -42,7 +42,7 @@ project(':react-native-baidu-map').projectDir = new File(settingsDir, '../node_m
 
 ### Usage 使用方法
 
-    import { MapView, MapTypes, MapModule, Geolocation } from 'react-native-baidu-map
+    import { MapView, MapTypes, MapModule, Geolocation } from 'react-native-baidu-map'
 
 #### MapView Props 属性
 | Name                    | Type  | Default  | Extra
